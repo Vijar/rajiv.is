@@ -17,3 +17,11 @@ img{
         -moz-border-radius: 500px;
         border-radius: 500px;
 }
+
+a:link, a:visited, a:hover{
+        color: #0089FF;
+        text-decoration: none;
+}
+a:hover{
+        color: #005EC2;
+}
