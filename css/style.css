@@ -1,0 +1,19 @@
+#wrapper{
+        max-width: 640px;
+        margin: 2em auto;
+        padding: 0 5px 2em;
+}
+.centered{
+        text-align: center;
+        font-family: Raleway;
+        font-weight: 400;
+}
+h1{
+        font-weight: 400;
+        font-size: 1em;
+}
+img{
+        -webkit-border-radius: 500px;
+        -moz-border-radius: 500px;
+        border-radius: 500px;
+}
