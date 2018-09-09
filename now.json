@@ -1,1 +1,9 @@
-{}
+{
+  "name": "rajiv.is",
+  "alias": "rajiv.is",
+  "public": true,
+  "type": "static",
+  "static": {
+    "directoryListing": false
+  }
+}
